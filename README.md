@@ -3,7 +3,8 @@
 ## Colaboradores
 - Victoria Hofstetter
 - Matias Nuñez
--Alumnos de comision 18
+
+- Alumnos de comision 18
 
 
 ### Posible error
