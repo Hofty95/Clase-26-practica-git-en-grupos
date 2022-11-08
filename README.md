@@ -3,3 +3,7 @@
 ## Colaboradores
 - Victoria Hofstetter
 - Matias Nuñez
+
+
+### Posible error
+Prueba escribir en el mismo archivo.
