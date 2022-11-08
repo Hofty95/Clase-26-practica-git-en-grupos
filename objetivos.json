@@ -3,5 +3,10 @@
         "numero" : 1,
         "nombre" : "terminar tp",
         "importancia" : "alta"
+    },
+    {
+        "numero" : 2,
+        "nombre" : "entregar tp",
+        "importancia" : "alta"
     }
 ]
